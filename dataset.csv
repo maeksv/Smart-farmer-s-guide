@@ -1,0 +1,32 @@
+crop name,season ,soil_type,irrigation ,weather,cost ,production_percent,,PROFIT
+paddy,kharif,red and yellow soil,n,hot,1815,90,,90
+maize,kharif," loamy sand , clay loam",n,hot,1760,77,,79
+jowar,kharif,"loamy,clayey,sandy,alluvial soil.",n,hot,2550,67,,56
+bajra,kharif,"black,sandy loam soil ",n,hot,2000,35,,24
+cotton,kharif,"black soil,alluvial soil,red and laterite soil",n,hot,5255,86,,62
+sugercane,kharif,alluvial soil,n,hot,275,75,,96
+groundnut,kharif,"Well drained light sandy loams, red, yellow and black soils",n,hot,5090,56,,32
+pulses,kharif,all type of light dry soil,n,hot,1555,86,,86
+wheat,rabi,loamy soil and clayey soil,y,cold,1840,98,,85
+gram,rabi,sandy to black soil ,y,cold,4620,56,,46
+oat,rabi,any soil,y,cold,7665,49,,34
+barley,rabi,"sandy,loamy,black soil",y,cold,1440,56,,89
+potato,rabi," loamy sandy , clayey soil",y,cold,1254,51,,67
+mustard,rabi,loamy soil ,y,cold,4200,68,,23
+linseed,rabi,loamy and clayey soil,y,cold,6666,36,,21
+sunflower,rabi,acidic to alkaline ph soil,y,cold,5645,12,,12
+coriander,rabi,slightly acidic,y,cold,1325,56,,78
+cumin,rabi,sandy to loamy soil,y,cold,5632,89,,65
+cucumber ,zaid,slightly alkaline,n,warm,1235,91,,89
+pumpkin,zaid,sandy loam soil,n,warm,4253,64,,43
+bitter ground,zaid,sandy to loamy soil,n,warm,4524,42,,45
+jute,kharif,alluvial soil,n,hot,3950,56,,32
+rice ,kharif,alluvial soil,n,hot,1835,87,,98
+turmeric,kharif,"sandy,clayey,loamy soil",n,hot,5562,68,,65
+red chillies,kharif,sandy loam soil,n,hot,5125,78,,34
+muskmelon,zaid,sesitive to acidic soil,n,warm,3463,56,,67
+watermelon,zaid,sandy loam soil,n,warm,5245,54,,78
+coffee,kharif,"loamy with humus and minerals,laterite soil",n,hot,2693,86,,78
+coconut,rabi,laterite soil,y,cold,2571,84,,64
+potato,rabi,red and yellow soil,n,cold,5532,54,,34
+ridge gourd,zaid,"loam ,clay ,silt soil",n,warm,4565,62,,56
